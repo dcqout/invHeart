@@ -4,5 +4,5 @@
 <a href="https://github.com/dcqout/invHeart"><img src=https://img.shields.io/badge/License-MPL2.0-blue.svg alt="MPL2.0"></a>
 </h1>
 
-ModLoader templates: https://github.com/dcqout/invHeart/tree/build_templates
+Source to use with templates: https://github.com/dcqout/invHeart/tree/source
 <p>Check out the modrinth page <strong>https://modrinth.com/mod/inventoryheart</strong></p>
